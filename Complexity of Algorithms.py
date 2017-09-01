@@ -2,7 +2,6 @@
 """
 Created on Thu Aug 31 16:37:38 2017
 
-@author: xzr0001
 """
 import pylab
 import numpy

@@ -6,7 +6,7 @@ Created on Thu Aug 31 16:37:38 2017
 import pylab
 import numpy
 
-x = numpy.linspace(1,100,1000) # 100 linearly spaced numbers
+x = numpy.linspace(1,100,1000) # 1000 linearly spaced numbers
 
 pylab.ylim([1,60])
 pylab.xlim([1,20])
